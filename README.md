@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://github.com/momahmoud02?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="https://www.linkedin.com/in/mohammed-mahmoud-a2a1973b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=momahmoud02&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
 </p>
 
 ---
