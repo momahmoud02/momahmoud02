@@ -16,6 +16,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/momahmoud02/apple-revenue-atlas">
+    <img src="https://raw.githubusercontent.com/momahmoud02/apple-revenue-atlas/main/assets/report-dark.png" alt="Apple Revenue Atlas - Power BI executive dashboard" width="100%" />
+  </a>
+</p>
+
+---
+
 ## Latest Projects
 
 *Ordered newest first. Every repository includes the full deliverable, the underlying data or a documented sample, and a README explaining the build.*
@@ -45,7 +53,7 @@ HR dashboard focused on attrition, workforce demographics, salary bands, and job
 **[View repository →](https://github.com/momahmoud02/supway-hr-analytics)**
 
 ### 5. Samsung Supply Chain Analytics · Power BI
-Six-page supply chain report covering the overview, suppliers, inventory, shipments, and customer analytics across a star-schema model.
+Supply chain report built on a star-schema model, with a fully developed customer analytics page (revenue, profit, margin, order quality) and supporting pages for overview, suppliers, inventory, and shipments.
 `Power BI` `Star schema` `Supply chain`
 
 **[View repository →](https://github.com/momahmoud02/samsung-supply-chain-analytics)**
@@ -79,7 +87,7 @@ I'm a Commerce graduate specializing in Accounting, focused on financial analysi
 - 📈 Interactive dashboards for financial and operational datasets
 - 🧾 Completed the DEPI Oracle Digital Accounting Specialist track
 - 🛠️ Excel, Power Query, Pivot Tables, SQL, Power BI, and DAX
-- 🎯 Building a practical portfolio for financial and data analyst roles
+- 🎯 Delivering end-to-end analytics: from raw data and modeling to the dashboard a decision-maker actually uses
 
 ---
 
