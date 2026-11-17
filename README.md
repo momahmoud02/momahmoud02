@@ -27,49 +27,55 @@
 
 *Ordered newest first. Every repository includes the full deliverable, the underlying data or a documented sample, and a README explaining the build.*
 
-### 1. Apple Revenue Atlas · Power BI
+### 1. Starbucks Global Analytics · Power BI
+Seven-page FY2021–FY2026 executive report pairing reported Starbucks financials with a 60-store operations sample across six regions: star-schema model, DAX measures, a custom 3D revenue globe, and an explanation card on every chart.
+`Power BI` `DAX` `PBIP` `TypeScript custom visual`
+
+**[View repository →](https://github.com/momahmoud02/starbucks-global-analytics)**
+
+### 2. Apple Revenue Atlas · Power BI
 Executive FY2021–FY2025 financial dashboard with a custom interactive 3D revenue globe, dynamic DAX and HTML cards, and four synchronized slicers.
 `Power BI` `DAX` `HTML/CSS` `TypeScript custom visual`
 
 **[View repository →](https://github.com/momahmoud02/apple-revenue-atlas)**
 
-### 2. Microsoft Financial Analysis · Power BI + Excel
+### 3. Microsoft Financial Analysis · Power BI + Excel
 Five-year financial analysis covering the income statement, balance sheet, cash flow, segments, and product revenue, with an Excel source workbook.
 `Power BI` `Excel` `DAX` `Financial statements`
 
 **[View repository →](https://github.com/momahmoud02/microsoft-financial-analysis)**
 
-### 3. MT Finance Investment Dashboard · Power BI
+### 4. MT Finance Investment Dashboard · Power BI
 Analysis of 40 investor survey responses by investment type, objective, duration, and acquisition channel.
 `Power BI` `Survey analysis` `Data modeling`
 
 **[View repository →](https://github.com/momahmoud02/mt-finance-investment-dashboard)**
 
-### 4. Supway HR Analytics · Power BI
+### 5. Supway HR Analytics · Power BI
 HR dashboard focused on attrition, workforce demographics, salary bands, and job satisfaction, with department- and experience-level breakdowns.
 `Power BI` `DAX` `HR analytics`
 
 **[View repository →](https://github.com/momahmoud02/supway-hr-analytics)**
 
-### 5. Samsung Supply Chain Analytics · Power BI
+### 6. Samsung Supply Chain Analytics · Power BI
 Supply chain report built on a star-schema model, with a fully developed customer analytics page (revenue, profit, margin, order quality) and supporting pages for overview, suppliers, inventory, and shipments.
 `Power BI` `Star schema` `Supply chain`
 
 **[View repository →](https://github.com/momahmoud02/samsung-supply-chain-analytics)**
 
-### 6. Sales Dashboard 2026 · Power BI
+### 7. Sales Dashboard 2026 · Power BI
 Single-page sales dashboard with KPIs, category mix, waterfall contribution, trend analysis, and treemap views.
 `Power BI` `DAX` `Sales analysis`
 
 **[View repository →](https://github.com/momahmoud02/sales-dashboard-2026)**
 
-### 7. Ferns & Petals Operations · Excel
+### 8. Ferns & Petals Operations · Excel
 Retail operations analysis covering customers, orders, products, and delivery performance, with an interactive Excel dashboard. The published dataset is anonymized.
 `Excel` `PivotTables` `Retail operations`
 
 **[View repository →](https://github.com/momahmoud02/ferns-and-petals-operations)**
 
-### 8. Tesla Sales Analysis · Excel
+### 9. Tesla Sales Analysis · Excel
 Analysis of 85,000+ Tesla transactions with a PivotTable model and an interactive sales dashboard.
 `Excel` `PivotTables` `Dashboard`
 
