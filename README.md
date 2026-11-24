@@ -1,124 +1,97 @@
-<h1 align="center">Mohamed Mahmoud Taha</h1>
-
-<h3 align="center">Financial Analyst · Data Analyst</h3>
-
-<p align="center"><em>Turning financial and operational data into clear, decision-ready dashboards.</em></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Financial+Analysis+%26+Business+Insights;Excel+%7C+SQL+%7C+Power+BI;Financial+Modeling+%7C+Forecasting+%7C+Budgeting;Dashboards+That+Drive+Decisions" alt="Typing SVG" />
+  <img src="assets/profile-banner.svg" alt="Mohamed Mahmoud — Data Analyst. Power BI, SQL, Excel, Power Query and DAX." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/momahmoud02?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://www.linkedin.com/in/mohammed-mahmoud-a2a1973b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <strong>Data Analyst · Cairo, Egypt</strong><br />
+  I build interactive reports that connect business questions, data models, and clear visual analysis.
 </p>
-
----
 
 <p align="center">
-  <a href="https://github.com/momahmoud02/apple-revenue-atlas">
-    <img src="https://raw.githubusercontent.com/momahmoud02/apple-revenue-atlas/main/assets/report-dark.png" alt="Apple Revenue Atlas - Power BI executive dashboard" width="100%" />
-  </a>
+  <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
+  <a href="#how-i-work">How I work</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mohammed-mahmoud-a2a1973b4">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/momahmoud02?tab=repositories">All repositories</a>
 </p>
 
----
+## Selected projects
 
-## Latest Projects
+A focused collection of my recent Power BI work, covering sales, financial performance, and operations. Open a project to explore its files, methodology, and data assumptions.
 
-*Ordered newest first. Every repository includes the full deliverable, the underlying data or a documented sample, and a README explaining the build.*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Juhayna Studio</h3>
+      <a href="https://github.com/momahmoud02/juhayna-studio"><img src="assets/juhayna-studio.png" width="100%" alt="Juhayna Studio sales overview with glass-style cards, monthly trends and business filters" /></a>
+      <p>Sales, product mix, markets, customers, and profitability in a nine-page report with 80 DAX measures and a dedicated Home page.</p>
+      <p><sub>HYBRID DATA · Simulated transactions and allocated costs; financial figures retained from the source workbook.</sub></p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Power Query</code></p>
+      <p><a href="https://github.com/momahmoud02/juhayna-studio"><strong>Explore Juhayna →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Starbucks Global Analytics</h3>
+      <a href="https://github.com/momahmoud02/starbucks-global-analytics"><img src="assets/starbucks-overview.png" width="100%" alt="Starbucks executive overview showing financial indicators, product analysis and a custom revenue globe" /></a>
+      <p>A seven-page report connecting financial performance with store sales, inventory, workforce, and regional analysis.</p>
+      <p><sub>HYBRID DATA · Financial figures presented as reported in the source; a synthetic 60-store operations sample.</sub></p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Custom visual</code></p>
+      <p><a href="https://github.com/momahmoud02/starbucks-global-analytics"><strong>Explore Starbucks →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>McDonald's Store Economics</h3>
+      <a href="https://github.com/momahmoud02/McDonalds-Store-Economics"><img src="assets/mcdonalds-margins-cash.png" width="100%" alt="McDonald's margins and cash dashboard with operating margins, cost structure and cash generation" /></a>
+      <p>FY2021–FY2025 analysis of the franchise model, restaurant footprint, profitability, investment, and cash generation.</p>
+      <p><sub>FINANCIAL ANALYSIS · Annual-report-based figures; supplemental market allocations and metric caveats documented in the repository.</sub></p>
+      <p><code>Power BI</code> <code>DAX</code> <code>Financial statements</code></p>
+      <p><a href="https://github.com/momahmoud02/McDonalds-Store-Economics"><strong>Explore McDonald's →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Apple Revenue Atlas</h3>
+      <a href="https://github.com/momahmoud02/apple-revenue-atlas"><img src="assets/apple-revenue-atlas.png" width="100%" alt="Apple executive dashboard featuring product revenue, profitability and an interactive geographic globe" /></a>
+      <p>An FY2021–FY2025 executive dashboard combining product mix, profitability, geographic analysis, and synchronized filters.</p>
+      <p><sub>FINANCIAL ANALYSIS · Annual-report-based figures with allocated country-level views, not reported country revenue.</sub></p>
+      <p><code>Power BI</code> <code>DAX</code> <code>TypeScript</code></p>
+      <p><a href="https://github.com/momahmoud02/apple-revenue-atlas"><strong>Explore Apple →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Microsoft Financial Analysis</h3>
+      <a href="https://github.com/momahmoud02/microsoft-financial-analysis"><img src="assets/microsoft-financial-analysis.png" width="100%" alt="Microsoft financial dashboard displaying revenue, profitability, segment mix and a detailed financial matrix" /></a>
+      <p>FY2021–FY2025 financial-statement and segment analysis, linking an Excel source workbook to an executive Power BI dashboard.</p>
+      <p><sub>MIXED ACTUAL / ESTIMATED · The dashboard distinguishes actual figures, estimated periods, and analytical targets.</sub></p>
+      <p><code>Power BI</code> <code>Excel</code> <code>DAX</code></p>
+      <p><a href="https://github.com/momahmoud02/microsoft-financial-analysis"><strong>Explore Microsoft →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Samsung Supply Chain Analytics</h3>
+      <a href="https://github.com/momahmoud02/samsung-supply-chain-analytics"><img src="assets/samsung-customer-analytics.png" width="100%" alt="Samsung sample customer analytics dashboard showing revenue, profit, discounts, order quality and sales channels" /></a>
+      <p>A supply-chain data model with a developed customer analytics page covering revenue, margin, discounts, channels, and order quality.</p>
+      <p><sub>SAMPLE DATA · Illustrative consumer-electronics operations; the repository documents the scope of each report page.</sub></p>
+      <p><code>Power BI</code> <code>Star schema</code> <code>Customer analytics</code></p>
+      <p><a href="https://github.com/momahmoud02/samsung-supply-chain-analytics"><strong>Explore Samsung →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-### 1. Starbucks Global Analytics · Power BI
-Seven-page FY2021–FY2026 executive report pairing reported Starbucks financials with a 60-store operations sample across six regions: star-schema model, DAX measures, a custom 3D revenue globe, and an explanation card on every chart.
-`Power BI` `DAX` `PBIP` `TypeScript custom visual`
+<sub>Independent portfolio projects, not commissioned by or affiliated with the featured brands. Data sources, estimates, allocations, and sample boundaries matter as much as the visuals.</sub>
 
-**[View repository →](https://github.com/momahmoud02/starbucks-global-analytics)**
+## How I work
 
-### 2. Apple Revenue Atlas · Power BI
-Executive FY2021–FY2025 financial dashboard with a custom interactive 3D revenue globe, dynamic DAX and HTML cards, and four synchronized slicers.
-`Power BI` `DAX` `HTML/CSS` `TypeScript custom visual`
+| Stage | What I focus on |
+| :--- | :--- |
+| Frame the question | Define the business question, reporting scope, and useful KPIs. |
+| Prepare and model | Clean data, build relationships, and keep the model understandable. |
+| Calculate and validate | Write DAX, reconcile totals, and check filter behavior and comparison periods. |
+| Design and explain | Build readable dashboards and make assumptions and limitations visible. |
 
-**[View repository →](https://github.com/momahmoud02/apple-revenue-atlas)**
+**Tools:** Power BI · Power Query · DAX · Excel · SQL
 
-### 3. Microsoft Financial Analysis · Power BI + Excel
-Five-year financial analysis covering the income statement, balance sheet, cash flow, segments, and product revenue, with an Excel source workbook.
-`Power BI` `Excel` `DAX` `Financial statements`
+**Background:** Commerce and accounting, with a focus on business intelligence and practical data analysis.
 
-**[View repository →](https://github.com/momahmoud02/microsoft-financial-analysis)**
+## Let's connect
 
-### 4. MT Finance Investment Dashboard · Power BI
-Analysis of 40 investor survey responses by investment type, objective, duration, and acquisition channel.
-`Power BI` `Survey analysis` `Data modeling`
+For dashboard projects, analytics collaboration, or Data Analyst opportunities, connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-mahmoud-a2a1973b4).
 
-**[View repository →](https://github.com/momahmoud02/mt-finance-investment-dashboard)**
-
-### 5. Supway HR Analytics · Power BI
-HR dashboard focused on attrition, workforce demographics, salary bands, and job satisfaction, with department- and experience-level breakdowns.
-`Power BI` `DAX` `HR analytics`
-
-**[View repository →](https://github.com/momahmoud02/supway-hr-analytics)**
-
-### 6. Samsung Supply Chain Analytics · Power BI
-Supply chain report built on a star-schema model, with a fully developed customer analytics page (revenue, profit, margin, order quality) and supporting pages for overview, suppliers, inventory, and shipments.
-`Power BI` `Star schema` `Supply chain`
-
-**[View repository →](https://github.com/momahmoud02/samsung-supply-chain-analytics)**
-
-### 7. Sales Dashboard 2026 · Power BI
-Single-page sales dashboard with KPIs, category mix, waterfall contribution, trend analysis, and treemap views.
-`Power BI` `DAX` `Sales analysis`
-
-**[View repository →](https://github.com/momahmoud02/sales-dashboard-2026)**
-
-### 8. Ferns & Petals Operations · Excel
-Retail operations analysis covering customers, orders, products, and delivery performance, with an interactive Excel dashboard. The published dataset is anonymized.
-`Excel` `PivotTables` `Retail operations`
-
-**[View repository →](https://github.com/momahmoud02/ferns-and-petals-operations)**
-
-### 9. Tesla Sales Analysis · Excel
-Analysis of 85,000+ Tesla transactions with a PivotTable model and an interactive sales dashboard.
-`Excel` `PivotTables` `Dashboard`
-
-**[View repository →](https://github.com/momahmoud02/tesla-sales-analysis)**
-
----
-
-## About Me
-
-I'm a Commerce graduate specializing in Accounting, focused on financial analysis, data analytics, and business intelligence. I combine an accounting background with data modeling and visualization to explain business performance, spot trends, and turn raw data into decisions.
-
-- 📊 Financial analysis, data analytics, and business intelligence
-- 💰 Financial modeling, forecasting, budgeting, and valuation fundamentals
-- 📈 Interactive dashboards for financial and operational datasets
-- 🧾 Completed the DEPI Oracle Digital Accounting Specialist track
-- 🛠️ Excel, Power Query, Pivot Tables, SQL, Power BI, and DAX
-- 🎯 Delivering end-to-end analytics: from raw data and modeling to the dashboard a decision-maker actually uses
-
----
-
-## Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerquery&logoColor=white" alt="Power Query" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-0A7E8C?style=for-the-badge" alt="DAX" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Financial_Analysis-1F6FEB?style=for-the-badge" alt="Financial Analysis" />
-  <img src="https://img.shields.io/badge/Financial_Modeling-0A7E8C?style=for-the-badge" alt="Financial Modeling" />
-  <img src="https://img.shields.io/badge/Forecasting-6F42C1?style=for-the-badge" alt="Forecasting" />
-  <img src="https://img.shields.io/badge/Budgeting-238636?style=for-the-badge" alt="Budgeting" />
-  <img src="https://img.shields.io/badge/Oracle_ERP-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ERP" />
-</p>
-
-**Analytics:** data cleaning, exploratory analysis, data modeling, KPI design, interactive reporting
-**Finance:** financial statement analysis, revenue and profitability analysis, cash flow, forecasting, budgeting
-**Accounting:** accounting principles, accounts receivable, collections, ERP workflows, financial reporting
-
----
-
-<p align="center">
-  <a href="https://github.com/momahmoud02?tab=repositories"><strong>Browse all repositories →</strong></a>
-</p>
+[Browse the full project collection →](https://github.com/momahmoud02?tab=repositories)
